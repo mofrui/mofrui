@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.PNG" alt="Mofrui Banner" width="50%">
+</p>
+
+# 🌟 Hi there, I'm Mofrui 🐾
+
+> 一只喜欢窝在电脑前听 Lofi 的夜猫，拥有柔软的毛和随时掉线的社交技能......  
+> 喜欢用爪子打代码，也会用尾巴乱删文档。
+
 
 <!--
 **mofrui/mofrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
